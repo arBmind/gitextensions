@@ -12,7 +12,7 @@ namespace GitCommands
         {
             get
             {
-                return "";
+                return @"C:\Program Files (x86)\Git\bin\";
                 //return @"c:\msysgit\bin\";
             }
         }
