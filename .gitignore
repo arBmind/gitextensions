@@ -23,6 +23,7 @@
 [Dd]ebug/
 *.lib
 *.sbr
+*.snk
 [Ll]ib/
 [Rr]elease*/
 [Dd]ebug*/
